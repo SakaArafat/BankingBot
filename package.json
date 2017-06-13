@@ -1,0 +1,22 @@
+{
+    "name": "MFTWatsonMessengerTest",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "scripts": {
+        "start": "node main.js"
+    },
+    "author": "admin",
+    "contributors": [],
+    "dependencies": {
+        "express": "latest",
+        "body-parser": "latest",
+        "request": "latest",
+        "watson-developer-cloud": "latest"
+    }
+}
